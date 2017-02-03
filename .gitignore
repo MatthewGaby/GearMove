@@ -1,0 +1,7 @@
+Debug/
+bin/
+Binaries/
+Simulate/
+.metadata
+*~
+target/
